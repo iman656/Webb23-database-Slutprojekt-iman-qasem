@@ -1,0 +1,7 @@
+OrderID,CustomerID,Status,OrderDate,TotalAmount
+1,1,Processing,2024-01-07 16:12:32,80
+2,1,Send,2024-01-07 16:13:04,50
+3,2,Processing,2024-01-07 16:16:01,50
+4,3,Processing,2024-01-07 16:34:01,1510
+5,4,Send,2024-01-12 20:06:51,100
+6,5,Processing,2024-01-12 20:32:44,50
